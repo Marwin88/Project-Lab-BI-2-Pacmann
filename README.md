@@ -53,18 +53,26 @@ On this case, because of we’re using an extracting data sample so first is dow
 Data is having several information to analyze the data. Below is list of data to create a comprehensive dashboard as we’re sharing in previous section.
 
 1.	Sales Data:
+
 a.	Order list dataset
+
 b.	Order item dataset
+
 c.	Order review dataset
+
 d.	Order customer dataset
+
 e.	Order seller dataset
+
 f.	Order product dataset
+
 
 <p align="center">
   <img src="https://github.com/Marwin88/Project-Lab-BI-2-Pacmann/blob/main/data/picture/Picture2.png" width="350" title="hover text">
 </p>
 
 2.	Marketing data
+
 3.	BD Data – AB testing data
 
 
