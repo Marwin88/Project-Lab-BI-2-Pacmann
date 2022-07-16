@@ -268,4 +268,9 @@ e.	On AB testing, because of P value 0.21 and it’s higher than alpha (0.05) so
 
 <h2>6.	Reference</h2>
 
-Pacmann.ai
+AB Testing Data - https://docs.google.com/document/d/1V7O6xiJ0wH5h3ddBK4Ji0vcD_6DNuXuKWb-yxRw28Ww/edit
+
+Marketing Data - https://docs.google.com/document/d/1OCgfp8fGf9QSAEVtb8qNWspVGORqNWhx-uEy3KoD4Yc/edit
+
+Sales Data - https://docs.google.com/document/d/1v33dd7tNS6pYoUXp32GO1YyW1LpxuvDMuFJmKOYJdsY/edit
+
