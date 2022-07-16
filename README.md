@@ -234,10 +234,15 @@ Showing a result of ab testing, based on the data processing on phyton on previo
 <h2>5.	Analysis and result</h2>
 
 Based on dashboard in previous segment, we can get some conclusions from the data and we can split it into several segment as per below.
+
 a.	Beauty health, watches and furniture is our strong point on our sales, that 3 products can generate 28% from total sales, and our sales is growing if we compare 2017 and 2018 on same period
+
 b.	Review in average is 4.1 with mostly focus on service, and if we see reviews is getting better every year
+
 c.	Late delivery mostly happened from sau paulo in same city. The main reason is because most of the order is coming from this city
+
 d.	On marketing side, high class customer group having overall high CVR and high champaign accepted. Most of high-class customer is segmented as champions by 20% and at risk by 19%
+
 e.	On AB testing, because of P value 0.21 and it’s higher than alpha (0.05) so it fails to reject H0. Resulting the two pages (old and new) is not significantly different
 
 
