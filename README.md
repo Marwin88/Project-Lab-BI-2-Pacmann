@@ -26,18 +26,28 @@ Creating a Dashboard to monitor and improve sales, marketing and business develo
 <h3>iv)	Personas</h3>
 
 o	High Managerial Level for Quick update and actions
+
 o	Sales and Operational Team: to drill down and investigate sales
+
 o	Marketing Team: to see and analyze effectiveness of marketing and retention
+
 o	Business Development Team: to get a conclusion for landing pages based on data
+
 
 <h3>v)	Features</h3>
 
 o	About Us: Will show you the dashboard homepage and overall status for every key matrix
+
 o	Sales Overview: Will show you the sales general information from total sales, total order growth size etc
+
 o	Sales Review: Will show you the information of review segment, in general it will show customer feedback and proportions
+
 o	Sales for Seller: Will show you the overall seller performance and and rank for seller
+
 o	Marketing dashboard: Will show RFM analysis and also cohort analysis to see our customer engagement
+
 o	AB Testing: Will show the result of AB testing and suggestion for next action based on data
+
 
 
 <h2>3.	Overview dan Process:</h2>
@@ -157,7 +167,8 @@ While other dashboard (sales and ab test) is done in python, for RFM analysis ca
   <img src="https://github.com/Marwin88/Project-Lab-BI-2-Pacmann/blob/main/data/picture/Picture14.png" width="350" title="hover text">
 </p>
 
-b.	User Flow
+<h3>b.	User Flow</h3>
+
 After the dashboard is finished and published publicly, here is the userflow that we hope will be run by the user. With this userflow, it will answer some of the questions that have been stated in the previous sub-chapter.
 
 <p align="center">
